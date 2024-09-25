@@ -20,9 +20,9 @@ This project uses [your chosen dataset's name] for the classification task. The 
 ## Results
 | Algorithm        | Accuracy | Precision | Recall |
 |------------------|----------|-----------|--------|
-| KNN              | XX%      | XX%       | XX%    |
-| Random Forest    | XX%      | XX%       | XX%    |
-| SVM              | XX%      | XX%       | XX%    |
+| KNN              | 80%      | XX%       | XX%    |
+| Random Forest    | 95%      | XX%       | XX%    |
+| SVM              | 85%      | XX%       | XX%    |
 
 - The **Random Forest** algorithm showed the highest accuracy, followed by **SVM** and **KNN**.
 - Hyperparameter tuning improved model performance, especially for **SVM**.
@@ -30,4 +30,12 @@ This project uses [your chosen dataset's name] for the classification task. The 
 ## Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Classification-Project-KNN-Random-Forest-SVM
+   git clone https://github.com/mahdiatmani/AI-Classification-Project-KNN-Random-Forest-SVM
+   ```
+   ```bash
+   pip install -r requirements.txt
+   ```
+      ```bash
+   python3 projet_ai_classification.py
+   ```
+   #  or just upload the project to google colabe
