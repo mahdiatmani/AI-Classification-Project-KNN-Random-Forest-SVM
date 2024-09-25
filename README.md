@@ -38,4 +38,4 @@ This project uses [your chosen dataset's name] for the classification task. The 
       ```bash
    python3 projet_ai_classification.py
    ```
-   #  or just upload the project to google colabe
+ or just upload the project to google colabe
