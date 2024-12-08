@@ -18,11 +18,11 @@ This project demonstrates the use of machine learning algorithms—**K-Nearest N
 This project uses [your chosen dataset's name] for the classification task. The dataset contains [brief description of the data, like features and target variable]. Data preprocessing steps include feature scaling, normalization, and handling missing data.
 
 ## Results
-| Algorithm        | Accuracy | Precision | Recall |
-|------------------|----------|-----------|--------|
-| KNN              | 80%      | XX%       | XX%    |
-| Random Forest    | 95%      | XX%       | XX%    |
-| SVM              | 85%      | XX%       | XX%    |
+| Algorithm        | Accuracy |
+|------------------|----------|
+| KNN              | 80%      |
+| SVM              | 85%      |
+| Random Forest    | 95%      |
 
 - The **Random Forest** algorithm showed the highest accuracy, followed by **SVM** and **KNN**.
 - Hyperparameter tuning improved model performance, especially for **SVM**.
